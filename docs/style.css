@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+}
+h1{
+    margin: 10px auto 15px auto; 
+    padding: auto;
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+}
+canvas{
+    width: auto;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
+button{
+    width: auto;
+    margin: 20px auto 15px auto; 
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+}
